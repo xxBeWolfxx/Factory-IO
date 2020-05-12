@@ -6,3 +6,7 @@
 1. Przed sotrowaniem jest czujnik (Difuse Sensor), jeśli sortownik jest wolny to wtedy puszcza dalej żeby posortowało
 1. Czujniki na sortowni mówią kiedy zleciał itemek
 1. Paleciarz robi gotowe pakunki i wrzuca do Magazynu
+
+
+Algorytm:
+https://drive.google.com/file/d/1h6tvPDwsZsBAT0wXyI8f2zu6Tm5zOwhU/view?usp=sharing
